@@ -4,8 +4,7 @@
 
 ### 💻 Aspiring Developer | 💙 Miku Enthusiast | 🌏 From Nepal
 
-[![GitHub followers](https://img.shields.io/github/followers/DebL0g?style=social)](https://github.com/DebL0g)
-[![GitHub stars](https://img.shields.io/github/stars/DebL0g?style=social)](https://github.com/DebL0g)
+
 
 </div>
 
