@@ -15,7 +15,7 @@
 const DebL0g = {
     location: "Nepal",
     currentStatus: "Learning & Building",
-    interests: ["Web Development", "Game Development", "Hatsune Miku"],
+    interests: ["Web Development", "Designing", "Hatsune Miku"],
     languages: ["JavaScript", "HTML", "CSS"],
     currentlyLearning: "Node.js",
     favoriteSong: "Rolling girl 💙"
@@ -55,9 +55,10 @@ const DebL0g = {
 ## 💡 Currently Working On
 
 - Building more interactive CLI games
+- Building Webapps
 - Learning backend development with Node.js
 - Improving my JavaScript skills
-- Listening to Miku while coding 🎵
+
 
 ---
 
