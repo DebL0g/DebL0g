@@ -2,7 +2,7 @@
   
 # 👋 Hey there, I'm DebL0g!
 
-### 💻 Aspiring Developer | 💙 Miku Enthusiast | 🌏 From Nepal
+
 
 
 
