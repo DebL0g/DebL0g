@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hey there, I'm DebL0g!
+#  Hey there, I'm DebL0g!
 
 
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 ```javascript
 const DebL0g = {
     location: "Nepal",
@@ -18,13 +18,13 @@ const DebL0g = {
     interests: ["Web Development", "Designing", "Hatsune Miku"],
     languages: ["JavaScript", "HTML", "CSS"],
     currentlyLearning: "Node.js",
-    favoriteSong: "Rolling girl 💙"
+    favoriteSong: "Rolling girl "
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -40,7 +40,7 @@ const DebL0g = {
 
 ---
 
-## 🎯 My Projects
+##  My Projects
 
 <div align="center">
 
@@ -54,7 +54,7 @@ const DebL0g = {
 
 ---
 
-## 💡 Currently Working On
+##  Currently Working On
 
 - Building more interactive CLI games
 - Building Webapps
@@ -64,7 +64,7 @@ const DebL0g = {
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
