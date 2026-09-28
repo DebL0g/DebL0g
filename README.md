@@ -1,6 +1,6 @@
 <div align="center">
   
-#  Hey there, I'm DebL0g!
+#  DebL0g
 
 
 
