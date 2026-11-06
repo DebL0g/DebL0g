@@ -16,7 +16,7 @@ const DebL0g = {
     location: "Nepal",
     currentStatus: "Learning & Building",
     interests: ["Web Development", "Designing"],
-    languages: ["JavaScript", "HTML", "CSS"],
+    languages: ["JavaScript", "HTML", "CSS","Python","Rust"],
     favoriteSong: "Rolling girl "
 };
 ```
